@@ -1,0 +1,6 @@
+#Tue, 19 Apr 2016 11:04:37 -0400
+
+info.app.version=0.1
+info.app.name=bookstore
+grails.env=production
+info.app.grailsVersion=3.1.5
