@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="org.eclipse.jetty.util">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/org.eclipse.jetty.util.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
